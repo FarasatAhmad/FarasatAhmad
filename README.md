@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in Coding.
   
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning HTML and CSS.
   
 -  💞️ I'm excited to dive into the world of coding and eager to collaborate with
   fellow learners or experienced developers on projects big or small! Whether
@@ -12,8 +12,6 @@
   ideas into reality through the power of code
 
 - 📫 How to reach me farasatahmad939@gmail.com
-  
-- 😄 Pronouns: ...
   
 - ⚡ Fun fact: Despite being a beginner in coding, I've already discovered a passion for
     solving complex problems and debugging errors. I find joy in the challenge
