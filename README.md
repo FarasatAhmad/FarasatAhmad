@@ -11,7 +11,7 @@
   connect and grow together in our coding journey. Let's team up and turn our
   ideas into reality through the power of code
 
-- 📫 How to reach me farasatahmad939@gmail.com
+- 📫 How to reach me farasatahmad2024@gmail.com
   
 - ⚡ Fun fact: Despite being a beginner in coding, I've already discovered a passion for
     solving complex problems and debugging errors. I find joy in the challenge
